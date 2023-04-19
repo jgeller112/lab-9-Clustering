@@ -21,7 +21,7 @@ When you're done, we should be able to knit the final version of the QMD in your
 
 ## Data
 
--   For this lab, we will reproduce the results of Reilly et al. (2023; Experiment 1). Do not worry about any of the statistical tests performed.
+-   For this lab, we will reproduce the results of Reilly et al. (2023; Experiment 1). In Experiment 1, they were interested in whether clusters segregate by smell in a patient with anosmia (loss of smell). Do not worry about any of the statistical tests performed.
 
 Reilly, J., Finley, A. M., Kelly, A., Zuckerman, B., & Flurie, M. (2021). Olfactory language and semantic processing in anosmia: A neuropsychological case control study. *Neurocase*, *27*(1), 86--96. <https://doi.org/10.1080/13554794.2020.1871491>
 
@@ -29,7 +29,7 @@ Reilly, J., Finley, A. M., Kelly, A., Zuckerman, B., & Flurie, M. (2021). Olfact
 
 ## Hierarchical clustering
 
--   Run a hierarchical cluster analysis as done in Reilly et al. (2021). Please include the both dendrograms. Do your dendrograms have similar pattern?
+-   Run a hierarchical cluster analysis as done in Reilly et al. (2021; Experiment 1). Please include the both dendrograms. Do your dendrograms have similar pattern?
 
     ```{r}
 
